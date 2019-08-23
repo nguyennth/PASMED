@@ -1,4 +1,8 @@
-This code was modified to extract occurrences from biodiversity documents. 
+This code was modified to extract occurrences from biodiversity documents, which were reported in this paper:
+
+Nguyen, N. T. H., Gabud, R. and Ananiadou, S.. (2019). COPIOUS: A gold standard corpus of named entities towards extracting species occurrence from biodiversity literature. In: Biodiversity Data Journal, 7, e29626
+
+https://doi.org/10.3897/BDJ.7.e29626
 
 Requirements:
 - g++
