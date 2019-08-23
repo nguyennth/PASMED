@@ -1,5 +1,5 @@
 # PASMED
-This site includes information related to PASMED, a wide-coverage relation extraction system for the whole MEDLINE.
+This site contains all information related to PASMED, a wide-coverage relation extraction system for the whole MEDLINE.
 
 If you use data or source in this repository, please cite this paper:
 Nhung TH Nguyen, Makoto Miwa, Yoshimasa Tsuruoka, Takashi Chikayama and Satoshi Tojo. Wide-coverage relation extraction from MEDLINE using deep syntax. BMC Bioinformatics 2015, 16:107.
