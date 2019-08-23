@@ -1,5 +1,5 @@
 # PASMED
-This site contains all information related to PASMED, a wide-coverage relation extraction system for the whole MEDLINE.
+This site contains all information related to PASMED, a wide-coverage relation extraction system using deep-syntax patterns.
 
 If you use data or source code in this repository, please cite this paper:
 
