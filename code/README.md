@@ -1,6 +1,8 @@
 Requirements:
 - g++
-- Boost library (https://www.boost.org)
+- Boost library (https://www.boost.org): 
+    + please install the library and make sure it in /usr/local/include and /usr/local/lib
+    + remember to run 'sudo ldconfig' after installing the library
 
 Running:
 - Compile the code by running Makefile
